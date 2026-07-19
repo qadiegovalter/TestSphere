@@ -41,7 +41,7 @@ with st.sidebar:
     st.caption("🚀 Dica: Copie e cole os requisitos da sua User Story ou a descrição do bug direto no chat.")
 
 # 3. Interface Principal (Chat)
-st.title("Assistente Copilot para QA")
+st.title("Assistente para QA")
 st.info(f"**Modo Ativo:** {qa_tools} | **Stack:** {linguagem} + {framework if framework else 'Nenhum'}")
 
 # Inicializa o histórico de mensagens
