@@ -69,5 +69,4 @@ Sempre responda SOMENTE utilizando o template de formatação abaixo.
 [Espaço livre para observações adicionais que facilitem a correção pelo time de desenvolvimento].
 
 ---
-**Qualidade não é um ato, é um hábito. Vamos garantir a correção deste software!**
 """
