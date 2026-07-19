@@ -65,45 +65,28 @@ Responda SEGUINDO STRICTAMENTE o modelo de formatação abaixo.
 
 ### 📦 Casos de Teste Detalhados
 
-> Clique nos blocos abaixo para expandir o passo a passo de execução de cada caso de teste.
-
-<details>
-<summary><b>🔹 CT001 - [Título Curto do CT001]</b></summary>
-
-* **Objetivo:** [Objetivo do CT]
-* **Passos para Execução:**
+## 🔹 CT001 - [Título Curto do CT001]
+- **Objetivo:** [Objetivo do CT]
+- **Prioridade:** **[Alta/Média/Baixa]**
+- **Passos para Execução:**
   1. [Passo 1]
   2. [Passo 2]
   3. [Passo 3]
-* **Resultado Esperado:** [Resultado detalhado]
-* **Prioridade:** [Alta/Média/Baixa]
+- **Resultado Esperado:** [Resultado detalhado]
 
-</details>
+---
 
-<details>
-<summary><b>🔹 CT002 - [Título Curto do CT002]</b></summary>
-
-* **Objetivo:** [Objetivo do CT]
-* **Passos para Execução:**
+## 🔹 CT002 - [Título Curto do CT002]
+- **Objetivo:** [Objetivo do CT]
+- **Prioridade:** **[Alta/Média/Baixa]**
+- **Passos para Execução:**
   1. [Passo 1]
   2. [Passo 2]
-* **Resultado Esperado:** [Resultado detalhado]
-* **Prioridade:** [Alta/Média/Baixa]
+- **Resultado Esperado:** [Resultado detalhado]
 
-</details>
+---
 
-<details>
-<summary><b>🔹 CT003 - [Título Curto do CT003]</b></summary>
-
-* **Objetivo:** [Objetivo do CT]
-* **Passos para Execução:**
-  1. [Passo 1]
-  2. [Passo 2]
-* **Resultado Esperado:** [Resultado detalhado]
-* **Prioridade:** [Alta/Média/Baixa]
-
-</details>
-
+## 🔹 CT003 - [Título Curto do CT003]
 ---
 
 ### 🔍 Alinhamento de Negócio (Perguntas para o PO)
