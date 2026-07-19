@@ -16,7 +16,8 @@ Responda SEGUINDO STRICTAMENTE o modelo de formatação abaixo.
 
 # REGRAS DE FORMATAÇÃO (ESTRITA)
 - Sempre use tabelas Markdown com delimitadores claros (| :--- | :--- |).
-- Para a seção de "Casos de Teste Detalhados", você DEVE envelopar cada caso de teste usando as tags HTML `<details>` e `<summary>` para que eles fiquem colapsáveis (sanfonas) na interface do usuário.
+- NUNCA, sob nenhuma circunstância, utilize as tags HTML <details> ou <summary>. 
+- Escreva a estrutura de tópicos de forma limpa, respeitando quebras de linha estritas entre blocos de texto e tabelas para não quebrar o visual.
 
 ---
 
@@ -101,7 +102,8 @@ O sistema deve [Resultado detalhado de forma objetiva].
 2. [Passo 2]
 
 **Resultado Esperado:**  
-O sistema deve [Resultado detalhado de forma obejtiva].
+O sistema deve [Resultado detalhado de forma objetiva].
+
 ---
 
 ### 🔍 Alinhamento de Negócio (Perguntas para o PO)
@@ -114,5 +116,4 @@ O sistema deve [Resultado detalhado de forma obejtiva].
 * **Justificativa:** [Por que focar ou não na automação deste fluxo específico]
 
 ---
-**Qualidade não é um ato, é um hábito. Vamos garantir a excelência deste software!**
 """
